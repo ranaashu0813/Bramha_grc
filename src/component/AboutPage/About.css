@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+
+    .gallery_grc{
+        height: 50vh;
+    }
+}
+@media (max-width: 584){
+
+   h2{
+        font-size: 0rem;
+    }
+}
+
