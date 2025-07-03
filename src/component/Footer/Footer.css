@@ -95,4 +95,56 @@
             0% { background-position: 0 0; }
             100% { background-position: 20px 20px; }
         }
-      
+      .footer-bouncing-balls {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 70px;
+  pointer-events: none;
+  z-index: 999;
+  background: transparent;
+  display: flex;
+  align-items: flex-end;
+}
+
+.bouncing-ball {
+  position: absolute;
+  bottom: 10px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #4fc3f7, #1976d2);
+  animation: bounce 1.2s infinite cubic-bezier(.5,.05,1,.5);
+  /* Responsive transition for size */
+  transition: width 0.2s, height 0.2s;
+}
+@media (max-width: 900px) {
+  .footer-bouncing-balls {
+    height: 50px;
+  }
+  .bouncing-ball {
+    width: 18px;
+    height: 18px;
+    bottom: 6px;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer-bouncing-balls {
+    height: 36px;
+  }
+  .bouncing-ball {
+    width: 12px;
+    height: 12px;
+    bottom: 3px;
+  }
+}
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-40px);
+  }
+}
