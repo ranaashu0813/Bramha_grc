@@ -6,20 +6,7 @@ import './Footer.css'
 const Footer = ({ count = 12 }) => {
   return (
     <div>
-        <div className="footer-bouncing-balls">
-      {[...Array(count)].map((_, i) => (
-        <div
-          key={i}
-          className="bouncing-ball"
-          style={{
-            left: `${i * (100 / count)}%`,
-            animationDelay: `${i * 0.18}s`
-          }}
-        ></div>
-      ))}
-    </div>
-  );
-
+    
       <body class="bg-black min-h-screen flex flex-col">
     <div class="flex-grow"></div>
     <footer class="bg-animated cyber-grid relative overflow-hidden">

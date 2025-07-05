@@ -63,17 +63,19 @@ air pollution.
               
               <div className="phone_number">
 
-              <p> Off : 011-41851337  </p>    
-              <p>MOB : 9810286522</p>
-              <p>terrafirmagrc@hotmail.com</p>
-              <p>Owner name : vijay Talwar</p>
-              <p>head office adress : 187 jorbagh , New delhi-110003</p>
+              <p> Off : 08700785878 </p>    
+              <p>MOB : 08057800845</p>
+              <p>bramhagrccreation@gmail.com</p>
+              <p>Owner name : RAVI BABU</p>
+              <p>head office adress : Devla, Indian Gas Agency Opp. Surajpur Industrial
+Area, Surajpur, Greater Noida, Uttar Pradesh 201306 </p>
+            
               </div>
    
             </div>
             <div class="information">
               <img src="img/location.png" class="icon" alt="" />
-              <p>Jamal NO-110/98, Villa Balola, Tehsil - Wazirabad, Dist-Gurugram, Haryan-122015 </p>
+              
             </div>
             <div class="information">
               <img src="img/email.png" class="icon" alt="" />
@@ -166,7 +168,7 @@ air pollution.
       </svg>
       <h3 class="text-base capitalize  font-black text-white sm:text-[28px]">whatsapp</h3>
       <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank"
-          href="https://wa.me/123456789">+123456789</a></p>
+          href="https://wa.me/123456789">08700785878</a></p>
     </div>
     <div
       class="w-[100px] hover:scale-[1.1] h-[125px] sm:w-[200px] sm:h-[225px] gap-1 md:gap-4 flex flex-col  px-2 py-3 justify-center items-center bg-white  bg-opacity-30 rounded-[25px]">
@@ -201,8 +203,7 @@ air pollution.
           fill="#38B7FF"></path>
       </svg>
       <h3 class="text-base capitalize  font-black text-white sm:text-[28px]">location</h3>
-      <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank" href="location">Syria
-          Aleppo</a></p>
+      <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank" href="location">Uttar pradesh</a></p>
     </div>
     <div
       class="w-[100px] hover:scale-[1.1] h-[125px] sm:w-[200px] sm:h-[225px] gap-1 md:gap-4 flex flex-col  px-2 py-3 justify-center items-center bg-white  bg-opacity-30 rounded-[25px]">
@@ -223,20 +224,9 @@ air pollution.
       </svg>
       <h3 class="text-base capitalize  font-black text-white sm:text-[28px]">linkedin</h3>
       <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank"
-          href="https://www.linkedin.com/in/abdulbasit-abdulgani">Abdulbasit</a></p>
+          href="https://www.linkedin.com/in/abdulbasit-abdulgani">username</a></p>
     </div>
-    <div
-      class="w-[100px] hover:scale-[1.1] h-[125px] sm:w-[200px] sm:h-[225px] gap-1 md:gap-4 flex flex-col  px-2 py-3 justify-center items-center bg-white  bg-opacity-30 rounded-[25px]">
-      <svg aria-hidden="true" class="icon w-[64px] sm:w-[100px] h-[64px] sm:h-[100px]" fill="none"
-        xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" id="github">
-        <path
-          d="M35.582 93.672C37.004 93.06 38 91.646 38 90V79.2C38 78.806 38.032 78.396 38.082 77.98C38.054 77.988 38.028 77.994 38 78C38 78 32 78 30.8 78C27.8 78 25.2 76.8 24 74.4C22.6 71.8 22 67.4 18.4 65C17.8 64.6 18.2 64 19.4 64C20.6 64.2 23.2 65.8 24.8 68C26.6 70.2 28.4 72 31.6 72C36.574 72 39.24 71.75 40.844 70.89C42.712 68.112 45.298 66 48 66V65.95C36.664 65.586 29.422 61.818 26.05 56C18.72 56.084 12.338 56.81 8.696 57.414C8.58 56.76 8.48 56.102 8.394 55.44C11.988 54.848 18.08 54.146 25.084 54.012C24.86 53.46 24.666 52.894 24.502 52.314C17.48 51.958 11.42 52.236 8.128 52.508C8.088 51.844 8.034 51.182 8.026 50.51C11.324 50.24 17.22 49.97 24.062 50.288C23.904 49.288 23.802 48.266 23.802 47.202C23.802 43.802 25.002 40.202 27.202 37.202C26.202 33.802 24.802 26.602 27.602 24.002C33.002 24.002 36.802 26.602 38.602 28.202C42 26.8 45.8 26 50 26C54.2 26 58 26.8 61.2 28.2C63 26.6 66.8 24 72.2 24C75.2 26.8 73.6 34 72.6 37.2C74.8 40.2 76 43.6 75.8 47.2C75.8 48.168 75.71 49.102 75.58 50.018C82.578 49.674 88.634 49.95 91.988 50.222C91.984 50.896 91.922 51.554 91.886 52.22C88.544 51.944 82.336 51.66 75.168 52.042C74.99 52.714 74.774 53.368 74.518 54.002C81.61 54.094 87.848 54.78 91.614 55.38C91.528 56.044 91.428 56.702 91.312 57.354C87.488 56.742 80.97 56.026 73.554 55.99C70.224 61.746 63.114 65.5 52 65.938V66C57.2 66 62 73.8 62 79.2V90C62 91.646 62.996 93.06 64.418 93.672C82.74 87.608 96 70.328 96 50C96 24.636 75.366 4 50 4C24.634 4 4 24.636 4 50C4 70.328 17.26 87.608 35.582 93.672Z"
-          fill="#38B7FF"></path>
-      </svg>
-      <h3 class="text-base capitalize  font-black text-white sm:text-[28px]">github</h3>
-      <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank"
-          href="https://github.com/3bd0sy">@3bd0sy</a></p>
-    </div>
+    
     <div
       class="w-[100px] hover:scale-[1.1] h-[125px] sm:w-[200px] sm:h-[225px] gap-1 md:gap-4 flex flex-col  px-2 py-3 justify-center items-center bg-white  bg-opacity-30 rounded-[25px]">
       <svg aria-hidden="true" class="icon w-[64px] sm:w-[100px] h-[64px] sm:h-[100px]" fill="none"
@@ -253,7 +243,7 @@ air pollution.
       </svg>
       <h3 class="text-base capitalize  font-black text-white sm:text-[28px]">email</h3>
       <p class="text-sm text-center font-regular text-[#A4A4A5] sm:text-xl  "><a target="_blank"
-          href="mailto:ax.abdo.syrain@gmail.com">Email me</a></p>
+          href="mailto:ax.abdo.syrain@gmail.com">Bramhagrccreation</a></p>
     </div>
   </div>
 </section>
