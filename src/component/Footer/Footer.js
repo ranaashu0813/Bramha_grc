@@ -19,10 +19,12 @@ const Footer = ({ count = 12 }) => {
                 <div class="text-center">
                     <h4 class="text-xl font-bold text-white mb-4">Quick Links</h4>
                     <ul class="space-y-2">
-                        <li><a href="#" class="text-cyan-300 hover:text-white transition-colors duration-300">Home</a></li>
-                        <li><a href="#" class="text-cyan-300 hover:text-white transition-colors duration-300">Services</a></li>
-                        <li><a href="#" class="text-cyan-300 hover:text-white transition-colors duration-300">About</a></li>
-                        <li><a href="#" class="text-cyan-300 hover:text-white transition-colors duration-300">Contact</a></li>
+                        <li><a href="/" class="text-cyan-300 hover:text-white transition-colors duration-300">Home</a></li>
+                        <li><a href="/about" class="text-cyan-300 hover:text-white transition-colors duration-300">About</a></li>
+                        <li><a href="/product" class="text-cyan-300 hover:text-white transition-colors duration-300">Products</a></li>
+                       
+                        <li><a href="/works" class="text-cyan-300 hover:text-white transition-colors duration-300">Works</a></li>
+                        <li><a href="/contact" class="text-cyan-300 hover:text-white transition-colors duration-300">Contact</a></li>
                     </ul>
                 </div>
                 <div class="text-center md:text-right">

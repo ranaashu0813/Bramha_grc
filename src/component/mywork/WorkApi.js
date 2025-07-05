@@ -42,55 +42,55 @@ const Product_Work =[
         description:"this is good catalog"
         
     },
-    // {
-    //     id:7,
-    //     image:'/Work_image/image7.jpg',
-    //     price:'JAISALMAR AIRPORT',
-    //     description:"this is good catalog"
+    {
+        id:7,
+        image:'/Work_image/image7.jpg',
+        price:'Bhopal',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:8,
-    //     image:'/Work_image/image8.jpg',
-    //     price:'BANQUET HALL DELHI',
-    //     description:"this is good catalog"
+    },
+    {
+        id:8,
+        image:'/Work_image/image8.jpg',
+        price:'Bhopal',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:9,
-    //     image:'/Work_image/image9.jpg',
-    //     price:'ITC, GRAND BHARAT',
-    //     description:"this is good catalog"
+    },
+    {
+        id:9,
+        image:'/Work_image/image9.jpg',
+        price:'Bhopal',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:10,
-    //     image:'/Work_image/image10.jpg',
-    //     price:'COLUMN CAPA CAPITAL',
-    //     description:"this is good catalog"
+    },
+    {
+        id:10,
+        image:'/Work_image/image10.jpg',
+        price:'Gwalior',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:11,
-    //     image:'/Work_image/image11.jpg',
-    //     price:'A PROJECT AT DEHRADUN',
-    //     description:"this is good catalog"
+    },
+    {
+        id:11,
+        image:'/Work_image/image11.jpg',
+        price:'Gwalior',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:12,
-    //     image:'/Work_image/image12.jpg',
-    //     price:'ASHIMA MALL BHOPAL ',
-    //     description:"this is good catalog"
+    },
+    {
+        id:12,
+        image:'/Work_image/image12.jpg',
+        price:'Bhopal ',
+        description:"this is good catalog"
         
-    // },
-    // {
-    //     id:13,
-    //     image:'/Work_image/image13.jpg',
-    //     price:'L&T EXHIBITION CENTRE GANDHI NAGAR ',
-    //     description:"this is good catalog"
+    },
+    {
+        id:13,
+        image:'/Work_image/image13.jpg',
+        price:'Bhopal',
+        description:"this is good catalog"
         
-    // },
+    },
     // {
     //     id:14,
     //     image:'/Work_image/image14.jpg',
